@@ -5,7 +5,7 @@ This Is my Scratch Book of my Ideas Or Notes I have name it **Rough Book (RB)**
 
 0. [README](https://github.com/AndyAad/rb/blob/main/README.md)
 1. [Notes](https://github.com/AndyAad/rb/blob/main/Notes.md)
-2. [Ideas](https://github.com/AndyAad/rb/edit/main/Ideas.md)
+2. [Ideas](https://github.com/AndyAad/rb/blob/main/Ideas.md)
 
 
 - 👋 Hi, I’m @AndyAad
