@@ -9,5 +9,4 @@ This Is My Notes Section Where i Put All My Notes
 ------------------------------------------------------------------
 
 Create a Website In Git Which Contains All my Tools At One Place
-And name it **Didital Tools
-**
+And name it **Didital Tools**
