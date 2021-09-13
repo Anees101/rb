@@ -1,4 +1,4 @@
-This Is My Notes Section Where i Put All My Notes
+This Is My Notes Section Where I Put All My Notes
 
 
 **Navigation**
