@@ -9,10 +9,11 @@ This Is my Scratch Book of my Ideas Or Notes I have name it **Rough Book (RB)**
 
 
 - 👋 Hi, I’m @AndyAad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Creating Some Tools Which help in Productivity and make task easy and faster 
+- 🌱 I’m currently learning Automation, Diferent Scripting languages, want to learn python
+- 💞️ I’m looking to collaborate whth peoples who like to create stuff which makes life better
+- 📫 How to reach me 
+                      _Instagram @ahmad._.anees_
 
 
 
