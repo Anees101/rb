@@ -10,3 +10,13 @@ This Is My Notes Section Where I Put All My Notes
 
 [Create a Website In Git Which Contains All my Tools At One Place
 And name it **Didital Tools**](https://github.com/AndyAad/rb/blob/main/Tools.html)
+
+
+
+
+
+
+
+
+
+[getintopc.com](https://getintopc.com)
